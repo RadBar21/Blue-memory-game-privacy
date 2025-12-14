@@ -2,7 +2,7 @@
 
 **Last updated:** [DATE, e.g., June 20, 2025]
 
-This Privacy Policy describes how **[RB game studio 21]** ("we," "us," or "our") collects, uses, and discloses information when you use our mobile application **Blue Memory Game** (the "Service").
+This Privacy Policy describes how **RB game studio 21** ("we," "us," or "our") collects, uses, and discloses information when you use our mobile application **Blue Memory Game** (the "Service").
 
 By using the Service, you agree to the collection and use of information in accordance with this policy.
 
@@ -38,4 +38,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** [RBgamestudio21@gmail.com]
+**Email:** RBgamestudio21@gmail.com
