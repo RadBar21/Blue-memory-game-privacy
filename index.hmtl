@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Blue Memory Game</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 { color: #2563eb; }
+        h2 { color: #1e293b; margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        ul { margin-bottom: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #2563eb; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .last-updated { font-size: 0.9em; color: #666; margin-bottom: 30px; font-style: italic; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last updated: [DATE, e.g., June 20, 2025]</p>
+
+    <p>This Privacy Policy describes how <strong>RB game studio 21</strong> ("we," "us," or "our") collects, uses, and discloses information when you use our mobile application <strong>Blue Memory Game</strong> (the "Service").</p>
+
+    <p>By using the Service, you agree to the collection and use of information in accordance with this policy.</p>
+
+    <h2>1. Information Collection and Use</h2>
+    <p><strong>Local Data Storage:</strong> The Service operates primarily as an offline application. Game progress, high scores, settings, and in-game currency are stored locally on your device using native storage mechanisms (such as Shared Preferences on Android). We do not transmit this data to our own servers.</p>
+
+    <p><strong>Non-Personal Data:</strong> We may collect non-personal identification information about users whenever they interact with our Service. This may include the type of device, operating system version, and other technical information.</p>
+
+    <h2>2. Third-Party Services and Advertising</h2>
+    <p>We may use third-party services to display advertisements or analyze usage to improve our Service. These third-party service providers may collect information used to identify your device (such as Advertising ID).</p>
+    
+    <p>Links to the privacy policies of third-party service providers used by the app:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Google Play Services</a></li>
+        <li><a href="https://support.google.com/admob/answer/6128543?hl=cs" target="_blank">AdMob (Google)</a></li>
+        </ul>
+
+    <h2>3. GDPR Compliance (European Union)</h2>
+    <p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Since we do not store your personal data on our servers, you have full control over your data locally on your device.</p>
+    <p>Regarding third-party ads, we ensure that our advertising partners comply with GDPR. You may have the option to consent or decline personalized advertising upon launching the app.</p>
+
+    <h2>4. CCPA Compliance (US - California)</h2>
+    <p>Under the California Consumer Privacy Act (CCPA), California residents have the right to request access to and deletion of their personal data. As we do not sell your personal data and do not store it on our servers, requirements regarding the sale of data do not apply. You can manage your local data by clearing the app's data in your device settings.</p>
+
+    <h2>5. Children’s Privacy (COPPA)</h2>
+    <p>We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
+
+    <h2>6. Security</h2>
+    <p>We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
+    <p><strong>Email:</strong> <a href="mailto:[YOUR EMAIL ADDRESS]">[RBgamestudio21@gmail.com]</a></p>
+</div>
+
+</body>
+</html>
